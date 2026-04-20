@@ -112,7 +112,7 @@ https://sepolia.etherscan.io/tx/0x4193d932110d863605ff4a9507a6148bdb3de529297664
 ## Frontend
 
 **Live DApp URL:**
-https://voting-dapp-flax-two.vercel.app
+https://voting-dapp-g58ck2xpn-towurujesutofunmis-projects.vercel.app/
 **GitHub Repository:**
 https://github.com/towurujesutofunmi/voting-dapp
 ---

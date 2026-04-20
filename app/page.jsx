@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { ethers } from "ethers";
 
-const CONTRACT_ADDRESS = "0xaCe31116996B0dfb724D10154F3cdCDB97c913D1";
+const CONTRACT_ADDRESS = " 0x38d3867c9535c50Dd9318255544C343B954602c5";
 
 const ABI = [
   "function question() view returns (string)",
