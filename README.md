@@ -91,30 +91,32 @@ blockchain — no central authority controls the results.
 
 **Contract Address:**
 ```
-0xaCe31116996B0dfb724D10154F3cdCDB97c913D1
+0x38d3867c9535c50Dd9318255544C343B954602c5
 ```
 
 **Etherscan Contract Page:**
-https://sepolia.etherscan.io/address/0xaCe31116996B0dfb724D10154F3cdCDB97c913D1
+https://sepolia.etherscan.io/address/0x38d3867c9535c50Dd9318255544C343B954602c5
 
 ---
 
 ## Explorer Links
 
 **Deployment Transaction:**
-https://sepolia.etherscan.io/tx/0x3dee4cbee9e1b93a489bc5d01d0549db245f84fb69127da229c5ce3adac6bc91
+https://sepolia.etherscan.io/tx/0x0457261046e0bbee17b6125917f4c2b9252bfb6e4339aa8d76a89c4e87972891
 
 **Vote Interaction Transaction:**
-https://sepolia.etherscan.io/tx/0x4193d932110d863605ff4a9507a6148bdb3de529297664258d84b9d1d2f3328c
+(update with vote tx hash after first vote is cast)
 
 ---
 
 ## Frontend
 
 **Live DApp URL:**
-https://voting-dapp-g58ck2xpn-towurujesutofunmis-projects.vercel.app/
+(update with Vercel URL after deployment)
+
 **GitHub Repository:**
 https://github.com/towurujesutofunmi/voting-dapp
+
 ---
 
 ## Demo Instructions
@@ -203,4 +205,4 @@ voting-dapp/
 - Contract address and explorer links provided
 - State changing transaction demonstrated
 - Frontend DApp with MetaMask connection
-- Live public URL accessible to anyone
+- Live public URL accessible to anyones
